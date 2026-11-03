@@ -20,6 +20,6 @@
     "http-server": "^14.1.0",
     "inert-ssg": "^2.0.0-alpha.15",
     "mime-types": "^2.1.35",
-    "sharp": "^0.31.3"
+    "sharp": "^0.35.5"
   }
 }
